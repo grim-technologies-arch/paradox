@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "generated_by": "publish.sh",
+  "published_at": "2026-10-03T10:34:46Z",
+  "executor": {
+    "version": "1.0.36",
+    "channel": "stable",
+    "min_installer": 1,
+    "app": {
+      "url": "https://grim-technologies-arch.github.io/paradox/dist/Paradox-1.0.36.zip",
+      "md5": "ccfc237f40c0d6c8da58f7514c11ad0f",
+      "size": 7307342
+    }
+  },
+  "roblox": {
+    "version": "version-3bc33ee7ffad426f",
+    "player": "0.741.0.7411056",
+    "url": "https://setup.rbxcdn.com/mac/version-3bc33ee7ffad426f-RobloxPlayer.zip",
+    "md5": "22e68b8083a7c21d1f93636c306569e1",
+    "size": 152739120,
+    "archive_app": "RobloxPlayer.app",
+    "installer_app": "Contents/MacOS/RobloxPlayerInstaller.app"
+  }
+}
